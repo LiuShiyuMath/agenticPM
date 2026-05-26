@@ -1,10 +1,13 @@
 # AgenticPM Experimental Preview Distribution Copy
 
 Canonical links:
+- Launch room: https://htmlpreview.github.io/?https://gist.githubusercontent.com/LiuShiyuMath/483c6187f2b8c5830190f5a358f628ba/raw/agenticpm-company-voice-launch-room-20260527.html
 - Demo: https://htmlpreview.github.io/?https://gist.githubusercontent.com/LiuShiyuMath/b454830ceba7514e5b87f1edcb23ca2f/raw/agenticpm-experimental-preview-20260527.html
 - Code: https://github.com/LiuShiyuMath/agenticPM
 - Release: https://github.com/LiuShiyuMath/agenticPM/releases/tag/experimental-preview-2026-05-agenticpm
 - Feedback: https://github.com/LiuShiyuMath/agenticPM/issues/1
+
+Use the Launch room as the first link for cross-channel distribution; use the single-project Demo link only when the audience already asked specifically about AgenticPM.
 
 ## English
 
@@ -14,6 +17,7 @@ It is for turning raw ideas, research notes, roadmap mess, stakeholder updates, 
 
 Try first: Write Spec, Synthesize Research, or Project Health.
 
+Launch room: https://htmlpreview.github.io/?https://gist.githubusercontent.com/LiuShiyuMath/483c6187f2b8c5830190f5a358f628ba/raw/agenticpm-company-voice-launch-room-20260527.html
 Demo: https://htmlpreview.github.io/?https://gist.githubusercontent.com/LiuShiyuMath/b454830ceba7514e5b87f1edcb23ca2f/raw/agenticpm-experimental-preview-20260527.html
 Code: https://github.com/LiuShiyuMath/agenticPM
 Feedback: https://github.com/LiuShiyuMath/agenticPM/issues/1
@@ -28,6 +32,7 @@ Question: would this reduce PM blank-page time, or is the workflow surface still
 
 建议先试：写需求文档、用户研究综合、项目健康看板。
 
+Launch room: https://htmlpreview.github.io/?https://gist.githubusercontent.com/LiuShiyuMath/483c6187f2b8c5830190f5a358f628ba/raw/agenticpm-company-voice-launch-room-20260527.html
 Demo: https://htmlpreview.github.io/?https://gist.githubusercontent.com/LiuShiyuMath/b454830ceba7514e5b87f1edcb23ca2f/raw/agenticpm-experimental-preview-20260527.html
 Code: https://github.com/LiuShiyuMath/agenticPM
 Feedback: https://github.com/LiuShiyuMath/agenticPM/issues/1
